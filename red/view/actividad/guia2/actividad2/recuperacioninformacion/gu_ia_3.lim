@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>19</tipo>
+              <cabeceira>Completa la frase</cabeceira>
+              <imaxe>espiritual.jpg</imaxe>
+              <texto><![CDATA[Los ancestros conversan con los _______]]></texto>
+              <resp texto="">orishas</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>19</tipo>
+              <cabeceira>Completa la frase</cabeceira>
+              <imaxe>ancestro.jpg</imaxe>
+              <texto><![CDATA[El alimento de los vivos son los _______]]></texto>
+              <resp texto="">ancestros</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Completa la frase</cabeceira>
+              <imaxe>ex.jpg</imaxe>
+              <texto><![CDATA[El _______ fue exiliado del continente africano.]]></texto>
+              <resp texto="">muntu</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Completa la frase</cabeceira>
+              <imaxe alt="renace">r.jpg</imaxe>
+              <texto><![CDATA[El muntu ________________ en América.]]></texto>
+              <resp texto="">renacera</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>

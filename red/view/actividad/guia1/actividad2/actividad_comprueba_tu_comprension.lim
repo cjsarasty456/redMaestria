@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>1</tipo>
+              <cabeceira>Ahora responde: </cabeceira>
+              <imaxe>pexels-angela-roma-7479951.jpg</imaxe>
+              <texto>¿Por qué el poeta quiere que el muntu escuche?</texto>
+              <resp texto="" valor="1">Porque es un mensaje trascendental, importantísimo que debe ser  recibido por todos los seres.</resp>
+              <resp texto="" valor="0">Porque es un mensaje bonito, que se volverá tendencia en las redes sociales</resp>
+              <resp texto="" valor="0">Porque es una noticia importante que debe ser conocida por todos</resp>
+        </paxina>
+        <paxina id="2" >
+              <tipo>46</tipo>
+              <cabeceira>Ahora empareja la palabra con su sinónimo (palabra con significado similar)</cabeceira>
+              <etiqueta texto="Orisha de truenos, rayos, justicia, ... y fuego."  posy="1">Changó</etiqueta>
+              <etiqueta texto="Instrumento de cuerdas."  posy="4">Nagó</etiqueta>
+              <etiqueta texto="Familia como suma de difuntos y vivos, unidos en un nudo indisoluble"  posy="2">Kora</etiqueta>
+              <etiqueta texto="Personas africanas esclavizadas."  posy="3">Muntú</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <cabeceira>Encuentra todas las palabras que se asocian al término muntu</cabeceira>
+              <modo>1</modo>
+              <sopa enun="Difuntos ">difuntos</sopa>
+              <sopa enun="Vivos">vivos</sopa>
+              <sopa enun="Animales">animales</sopa>
+              <sopa enun="Árboles">arboles</sopa>
+              <sopa enun="Minerales ">minerales</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>

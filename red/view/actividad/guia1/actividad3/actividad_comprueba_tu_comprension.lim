@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>A partir de la lectura desarrolla la siguiente actividad.</cabeceira>
+              <imaxe>218.jpg</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="28">Soy Ngafúa, hijo de Kissi-Kama.<br>
+Dame, padre, tu voz creadora de imágenes,<br>
+tu voz tantas veces escuchada a la sombra del baobab.<br>
+<br>
+¡Kissi-Kama, padre, despierta!<br>
+Aquí te invoco esta noche,<br>
+junta a mi voz tus sabias historias.<br>
+¡Mi dolor es grande!<br>
+<br>
+(Es un llanto<br>
+la templada cuerda de la kora,<br>
+cuchilla afilada<br>
+hirió<br>
+suelta<br>
+pellizcará<br>
+mi dolor).</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena las imágenes para ilustrar lo leído</cabeceira>
+              <forma>0</forma>
+              <completa>1.png</completa>
+              <completa>2.jpg</completa>
+              <completa>3.jpg</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>1</tipo>
+              <cabeceira>Selecciona la idea principal que comunica este verso:</cabeceira>
+              <imaxe>pexels-pixabay-534283.jpg</imaxe>
+              <texto>¡Padre Kissi-Kama, despierta!
+Quiero que pongas en las cuerdas tensas de mi kora
+el valor
+la belleza
+la fuerza
+el noble corazón
+la penetrante mirada de Silamaka capturando la serpiente
+de Galamani.</texto>
+              <resp texto="" valor="1">Ngafúa le pide a su padre Kissi-Kama el don de comunicar noblemente, de manera heróica a través de su instrumento musical, la kora.</resp>
+              <resp texto="" valor="0">Ngafúa le pide a su padre Kissi-Kama la mirada penetrante de Silamaka</resp>
+              <resp texto="" valor="0">Ngafúa le pide a su padre Kissi-Kama el don de interpretar bien su instrumento musical, la kora.</resp>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <cabeceira>Reconoce la necesidad de Ngafúa:</cabeceira>
+              <imaxe>pexels-brett-sayles-6557033.jpg</imaxe>
+              <texto>Soy Ngafúa, hijo de Kissi-Kama
+reconóceme, padre,
+soy el pequeño que cargabas
+a la sombra del baobab de profundas raíces
+en cuyas pesadas ramas dormían y cantan los héroes
+del Mandingo.</texto>
+              <resp texto="" valor="0">Ngafúa busca que su padre biológico lo cargue junto al árbol donde se canta.</resp>
+              <resp texto="" valor="0">Ngafúa busca recordar cuando su padre lo cargaba en el árbol de sus ancestros.</resp>
+              <resp texto="" valor="1">Ngafúa busca protección y apoyo de su padre espiritual en el árbol de sus ancestros.</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>Continúa leyendo este poema por la libertad y responde:</cabeceira>
+              <imaxe>ex.jpg</imaxe>
+              <texto>(La kora narra
+cantará
+la historia larga
+la historia
+corta
+la larga
+historia de Nagó el navegante).
+
+¿cuál podría ser la historia corta y la historia larga a la que se alude en el poema?</texto>
+              <resp texto="" valor="0">La historia personal de Nagó</resp>
+              <resp texto="" valor="0">La historia futurista de Nagó</resp>
+              <resp texto="" valor="1">La historia del éxodo del pueblo africano</resp>
+        </paxina>
+    </libro>
+</lim>
